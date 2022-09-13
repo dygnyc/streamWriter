@@ -3,7 +3,7 @@
 string name = "Bob";
 int health = 100;
 string guild = "ninja";
-string? line = "blank";
+string? line = "blank"; //nullable
 
 //find current directory path
 string currentDirectory = Environment.CurrentDirectory;
